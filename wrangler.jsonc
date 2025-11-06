@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "openai-backend-test",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "Assistant-Backend",
+      "database_id": "c4121b90-8315-4aa0-a3b8-b617244b5cb7"
+    }
+  ]
+}
